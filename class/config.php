@@ -1,13 +1,6 @@
 <?php
 // config.php = connection to database
 
-// class{
-// propeties
-//
-//function nameof funtion(){
-//
-//}
-//}
 class config{
     private $user ='root';
     private $password ='';

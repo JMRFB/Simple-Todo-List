@@ -24,5 +24,4 @@ class view extends config{
     }
 }
 
-
 ?>

@@ -2,7 +2,6 @@
 
 class insert extends config{
     public $Newtask;    
-
     // __construct() = It's the constructor method in a class — it automatically runs when you create a new object.
     // Think of it as a setup function for the object.
     public function __construct($task){
@@ -24,6 +23,5 @@ class insert extends config{
        
     }
 }
-
 
 ?>
